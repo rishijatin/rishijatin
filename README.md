@@ -1,5 +1,5 @@
 ### Hi there
-# Myself Jatin Rishi
+# I'm Jatin Rishi 
 ### I know bit of Native Android Development and Web Development
 
 ### Languages and Tools:
