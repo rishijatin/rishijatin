@@ -28,6 +28,4 @@ src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"
 <br/>
 <br/>
 
-![Jatin's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=rishijatin&show_icons=true)
-
 ![Top Languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=rishijatin&show_icons=true )
